@@ -1,0 +1,2001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1711886925150,1,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925153,1,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925155,317,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script1.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script1.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script1.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925473,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925473,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925474,23,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script2.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script2.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script2.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925498,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925498,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925499,23,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script3.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script3.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script3.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925523,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925523,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925523,23,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script4.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script4.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script4.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925546,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925547,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925547,20,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script5.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script5.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script5.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925568,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925568,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925568,20,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script6.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script6.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script6.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925589,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925589,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925589,19,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script7.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script7.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script7.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925609,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925609,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925610,19,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script8.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script8.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script8.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925629,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925630,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925630,19,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script9.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script9.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script9.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925649,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925649,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925650,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script10.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script10.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script10.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925668,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925669,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925669,19,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script11.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script11.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script11.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925688,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925689,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925689,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script12.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script12.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script12.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925707,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925708,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925708,21,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script13.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script13.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script13.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925729,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925730,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925730,19,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script14.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script14.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script14.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925749,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925749,1,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925750,21,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script15.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script15.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script15.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925771,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925771,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925772,25,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script16.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script16.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script16.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925798,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925798,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925798,24,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script17.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script17.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script17.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925823,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925823,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925823,23,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script18.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script18.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script18.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925846,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925847,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925847,22,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script19.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script19.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script19.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925869,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925869,1,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925870,27,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script20.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script20.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script20.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925897,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925897,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925898,21,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script21.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script21.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script21.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925919,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925919,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925920,22,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script22.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script22.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script22.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925943,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925943,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925943,21,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script23.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script23.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script23.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925964,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925965,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925965,22,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script24.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script24.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script24.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886925987,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925987,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886925988,22,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script25.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script25.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script25.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926010,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926010,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926010,22,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script26.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script26.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script26.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926033,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926033,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926033,22,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script27.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script27.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script27.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926055,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926055,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926056,21,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script28.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script28.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script28.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926077,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926078,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926078,35,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script29.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script29.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script29.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926113,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926113,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926113,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script30.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script30.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script30.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926131,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926131,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926132,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script31.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script31.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script31.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926149,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926150,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926150,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script32.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script32.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script32.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926168,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926168,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926168,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script33.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script33.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script33.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926186,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926186,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926186,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script34.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script34.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script34.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926204,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926204,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926204,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script35.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script35.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script35.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926221,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926222,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926222,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script36.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script36.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script36.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926239,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926239,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926239,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script37.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script37.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script37.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926257,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926257,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926257,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script38.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script38.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script38.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926275,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926275,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926275,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script39.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script39.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script39.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926293,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926293,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926293,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script40.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script40.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script40.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926311,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926311,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926311,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script41.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script41.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script41.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926328,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926328,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926328,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script42.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script42.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script42.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926345,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926346,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926346,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script43.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script43.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script43.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926363,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926363,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926363,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script44.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script44.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script44.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926381,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926381,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926381,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script45.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script45.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script45.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926398,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926399,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926399,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script46.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script46.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script46.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926416,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926416,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926416,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script47.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script47.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script47.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926433,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926433,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926433,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script48.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script48.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script48.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926451,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926451,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926451,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script49.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script49.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script49.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926468,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926468,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926468,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script50.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script50.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script50.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926485,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926485,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926485,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script51.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script51.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script51.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926503,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926503,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926503,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script52.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script52.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script52.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926522,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926522,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926522,22,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script53.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script53.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script53.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926544,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926544,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926544,19,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script54.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script54.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script54.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926563,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926564,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926564,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script55.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script55.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script55.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926582,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926582,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926583,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script56.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script56.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script56.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926600,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926600,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926600,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script57.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script57.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script57.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926617,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926618,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926618,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script58.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script58.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script58.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926635,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926635,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926635,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script59.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script59.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script59.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926653,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926653,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926653,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script60.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script60.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script60.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926671,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926671,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926671,19,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script61.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script61.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script61.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926690,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926691,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926691,21,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script62.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script62.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script62.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926713,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926713,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926713,26,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script63.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script63.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script63.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926739,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926739,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926740,88,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script64.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script64.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script64.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926828,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926828,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926828,42,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script65.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script65.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script65.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926870,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926870,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926870,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script66.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script66.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script66.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926887,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926888,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926888,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script67.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script67.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script67.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926904,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926905,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926905,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script68.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script68.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script68.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926922,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926922,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926922,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script69.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script69.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script69.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926939,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926939,1,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926940,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script70.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script70.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script70.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926957,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926957,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926957,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script71.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script71.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script71.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926975,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926975,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926975,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script72.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script72.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script72.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886926992,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926993,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886926993,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script73.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script73.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script73.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927009,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927009,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927009,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script74.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script74.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script74.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927026,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927026,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927026,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script75.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script75.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script75.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927043,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927044,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927044,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script76.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script76.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script76.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927060,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927061,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927061,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script77.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script77.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script77.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927078,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927078,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927078,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script78.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script78.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script78.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927095,1,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927096,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927096,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script79.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script79.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script79.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927113,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927113,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927113,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script80.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script80.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script80.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927131,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927131,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927132,24,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script81.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script81.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script81.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927156,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927156,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927156,21,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script82.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script82.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script82.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927177,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927177,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927178,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script83.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script83.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script83.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927196,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927196,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927196,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script84.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script84.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script84.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927213,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927213,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927214,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script85.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script85.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script85.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927230,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927230,1,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927231,18,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script86.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script86.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script86.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927249,1,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927250,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927250,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script87.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script87.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script87.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927267,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927267,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927267,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script88.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script88.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script88.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927285,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927285,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927285,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script89.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script89.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script89.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927302,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927302,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927302,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script90.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script90.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script90.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927319,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927319,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927319,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script91.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script91.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script91.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927335,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927335,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927335,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script92.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script92.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script92.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927352,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927352,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927352,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script93.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script93.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script93.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927368,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927368,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927368,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script94.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script94.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script94.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927384,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927384,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927384,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script95.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script95.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script95.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927400,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927400,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927400,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script96.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script96.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script96.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927417,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927417,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927417,17,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script97.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script97.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script97.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927434,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927434,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927434,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script98.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script98.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script98.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927450,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927451,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927451,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script99.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script99.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script99.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
+1711886927467,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927467,0,HTTP Request,Non HTTP response code: org.apache.http.client.ClientProtocolException,Non HTTP response message: URI does not specify a valid host name: http:/notes,Thread Group 1-1,text,false,,1115,0,1,1,http:/notes,0,0,0
+1711886927467,16,JSR223 Sampler,500,"javax.script.ScriptException: org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+Script100.groovy: 3: unable to resolve class com.mongodb.client.MongoDatabase
+ @ line 3, column 1.
+   import com.mongodb.client.MongoDatabase
+   ^
+
+Script100.groovy: 4: unable to resolve class com.mongodb.client.MongoCollection
+ @ line 4, column 1.
+   import com.mongodb.client.MongoCollection
+   ^
+
+Script100.groovy: 5: unable to resolve class org.bson.Document
+ @ line 5, column 1.
+   import org.bson.Document
+   ^
+
+3 errors
+",Thread Group 1-1,text,false,,0,0,1,1,null,0,0,0
